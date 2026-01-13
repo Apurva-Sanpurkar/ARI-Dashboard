@@ -1,0 +1,37 @@
+# ---------------- Python ----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ---------------- Virtual Env ----------------
+.venv/
+venv/
+env/
+
+# ---------------- Streamlit ----------------
+.streamlit/
+
+# ---------------- OS / Editor ----------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------------- Jupyter ----------------
+.ipynb_checkpoints/
+
+# ---------------- Logs ----------------
+*.log
+
+# ---------------- Power BI / Large files ----------------
+*.pbix
+
+# ---------------- Secrets ----------------
+.env
+*.key
+*.pem
